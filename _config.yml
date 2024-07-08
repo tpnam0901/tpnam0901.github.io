@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Phuong Nam
+first_name: Phuong-Nam
 middle_name: 
 last_name: Tran
-email: namphuongtran9196@gmail.com
+email: tpnam0901@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   An Artificial Intelligence Researcher.
 footer_text: >
@@ -18,7 +18,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🖥️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://namphuongtran9196.github.io # the base hostname & protocol for your site
+url: https://tpnam0901.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -67,11 +67,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: namphuongtran9196 # your GitHub user name
-gitlab_username: namphuongtran9196 # your GitLab user name
+github_username: tpnam0901 # your GitHub user name
+gitlab_username: tpnam0901 # your GitLab user name
 twitter_username: namtp9196 # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: namphuongtran9196 # your LinkedIn user name
+linkedin_username: tpnam0901 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: NKbwDD8AAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -96,8 +96,8 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: namphuongtran9196 # your instagram id
-facebook_id: namphuongtran9196 # your facebook id
+instagram_id: tpnam0901 # your instagram id
+facebook_id: tpnam0901 # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: 840177865592537128 # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
@@ -120,7 +120,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-# blog_name: namphuongtran9196 # blog_name will be displayed in your blog page
+# blog_name: tpnam0901 # blog_name will be displayed in your blog page
 # blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 # blog_description: My personal blog # blog_description will be displayed in your blog page
 # permalink: /blog/:year/:title/

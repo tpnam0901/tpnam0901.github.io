@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-![conference_pic](https://github.com/namphuongtran9196/namphuongtran9196.github.io/blob/master/assets/img/announcement/announcement_2024_02_25.jpg?raw=true)
+![conference_pic](https://github.com/tpnam0901/tpnam0901.github.io/blob/master/assets/img/announcement/announcement_2024_02_25.jpg?raw=true)
