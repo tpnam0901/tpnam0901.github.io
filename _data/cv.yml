@@ -21,11 +21,16 @@
     #       contents:
     #         - Sub-description 1.
     #         - Sub-description 2.
+    - title: Ph.D.c
+      institution: Kyung Hee University, Suwon, Republic of Korea
+      year: 2024 - now
+      description:
+        - Advisor Assoc <a href="https://scholar.google.com/citations?user=oKANWloAAAAJ">Prof. Choong Seon Hong</a>
     - title: Degree of Bachelor in Information Technology
       institution: FPT University, Ho Chi Minh City, Vietnam
       year: 2019 - 2023
       description:
-        - Advisor Assoc <a href="https://dnmduc.github.io/cv/">Prof. Dang Ngoc Minh Duc</a>
+        - Advisor Assoc <a href="https://dnmduc.github.io/cv/">Dr. Dang Ngoc Minh Duc</a>
 
 - title: Experience
   type: time_table
