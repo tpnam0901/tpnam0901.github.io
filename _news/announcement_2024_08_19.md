@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-02-25 15:59:00-0400
-title: 🗞️ 03 papers are presented at 9th International Conference on Intelligent Information Technology (ICIIT 2024), Feb 24 -25, 2024.  
+title: 🗞️ 04 papers are accepted at The 15th International Conference on ICT Convergence, Jeju, Korea, Oct 16 -18, 2024.   
 inline: false
 related_posts: false
 ---
