@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-11-20 16:04:00-0400
-title: 02 papers are accepted at The 2024 9th International Conference on Intelligent Information Technology (ICIIT 2024)
+title: 🗞️🗞️ 02 papers were accepted at The 2024 9th International Conference on Intelligent Information Technology (ICIIT 2024)
 inline: false
 related_posts: false
 ---

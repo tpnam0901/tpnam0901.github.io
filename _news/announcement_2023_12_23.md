@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-12-23 16:04:00-0400
-title: 01 papers are accepted at The 38th International Conference on Information Networking (ICOIN 2024)
+title: 🗞️ 01 paper was accepted at The 38th International Conference on Information Networking (ICOIN 2024)
 inline: false
 related_posts: false
 ---

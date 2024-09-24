@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-12-29 16:04:00-0400
-title: 01 papers is accepted at The EAI INISCOM 2024 - 10th EAI International Conference on Industrial Networks and Intelligent Systems
+title: 🗞️ 01 paper was accepted at The EAI INISCOM 2024 - 10th EAI International Conference on Industrial Networks and Intelligent Systems
 inline: false
 related_posts: false
 ---
