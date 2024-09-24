@@ -6,7 +6,7 @@
     "email": "tpnam0901@gmail.com",
     "phone": "(+84) 946-653-380",
     "url": "https://tpnam0901.github.io/",
-    "summary": "An artificial intelligence researcher with a strong background in mathematics and computer science. I am interested in the application of machine learning and deep learning in computer vision, natural language processing, and reinforcement learning.",
+    "summary": "An artificial intelligence researcher with a strong background in mathematics and computer science. I am interested in Quantum Machine Learning (Primary research), Federated Learning (Primary research), Image segmentation, Multi-Modal and their applications in Biometrics and Audio & Speech Processing, and Computer Vision.",
     "location": {
       "address": "D1 Street Saigon Hi-tech Park, Long Thanh My Ward, District 9",
       "postalCode": "71216",
@@ -34,7 +34,6 @@
       "url": "http://www.kng.vn/",
       "startDate": "2021-08-01",
       "endDate": "2023-10-01",
-      "summary": "Implementing machine learning and deep learning algorithms to solve real-world problems.",
       "highlights": [
         "Computer Vision"
       ]
@@ -45,10 +44,30 @@
       "url": "https://www.linkedin.com/company/pythera-ai/",
       "startDate": "2021-12-01",
       "endDate": "2023-06-01",
-      "summary": "Researching and developing machine learning and deep learning algorithms related to computer vision and natural language processing.",
       "highlights": [
         "Computer Vision",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "name": "AiTA Lab, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam.",
+      "position": "Full-time Researcher",
+      "url": "https://aita-lab.github.io/",
+      "startDate": "2023-10-01",
+      "highlights": [
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "name": "Networking Intelligence Laboratory, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea",
+      "position": "Full-time Researcher",
+      "url": "https://www.linkedin.com/company/pythera-ai/",
+      "startDate": "2024-08-20",
+      "highlights": [
+        "Computer Vision",
+        "Natural Language Processing",
+        "Quantum Machine Learning"
       ]
     }
   ],
