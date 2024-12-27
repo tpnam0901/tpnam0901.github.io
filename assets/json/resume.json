@@ -6,7 +6,7 @@
     "email": "tpnam0901@gmail.com",
     "phone": "(+84) 946-653-380",
     "url": "https://tpnam0901.github.io/",
-    "summary": "An artificial intelligence researcher with a strong background in mathematics and computer science. I am interested in Quantum Machine Learning (Primary research), Federated Learning (Primary research), Image segmentation, Multi-Modal and their applications in Biometrics and Audio & Speech Processing, and Computer Vision.",
+    "summary": "An artificial intelligence researcher with a strong background in mathematics and computer science. I am interested in Medical image segmentation (Primary research), Federated Learning (Primary research), Image segmentation, Multi-Modal and their applications in Biometrics and Audio & Speech Processing, and Computer Vision.",
     "location": {
       "address": "D1 Street Saigon Hi-tech Park, Long Thanh My Ward, District 9",
       "postalCode": "71216",
@@ -67,7 +67,8 @@
       "highlights": [
         "Computer Vision",
         "Natural Language Processing",
-        "Quantum Machine Learning"
+        "Medical image segmentation",
+        "Federated Learning"
       ]
     }
   ],
