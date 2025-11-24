@@ -5,5 +5,4 @@ title: 🗞️🗞️🗞️🗞️ 04 papers were accepted at The 15th Internat
 inline: false
 related_posts: false
 ---
-
-![conference_pic](https://raw.githubusercontent.com/tpnam0901/tpnam0901.github.io/refs/heads/main/assets/img/announcement/announcement_2024_02_25.jpg)
+The 15th International Conference on ICT Convergence, Jeju, Korea, Oct 16 -18, 2024.

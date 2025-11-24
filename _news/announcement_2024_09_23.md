@@ -7,4 +7,4 @@ inline: false
 related_posts: false
 ---
 
-![conference_pic](https://raw.githubusercontent.com/tpnam0901/tpnam0901.github.io/refs/heads/main/assets/img/journal/eswa.jpg)
+Expert Systems With Applications Journal (Q1).
