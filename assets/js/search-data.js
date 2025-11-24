@@ -60,17 +60,12 @@ ninja.data = [{
           title: '🗞️ Paper &amp;quot;MemoCMT Multimodal Emotion Recognition Using Cross-Modal Transformer-Based Feature Fusion&amp;quot; was accepted...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2025_02_04/";
-            },},{id: "news-️-paper-quot-memocmt-multimodal-emotion-recognition-using-cross-modal-transformer-based-feature-fusion-quot-was-accepted-by-the-scientific-reports",
-          title: '🗞️ Paper &amp;quot;MemoCMT Multimodal Emotion Recognition Using Cross-Modal Transformer-Based Feature Fusion&amp;quot; was accepted...',
-          description: "",
-          section: "News",handler: () => {
               window.location.href = "/news/announcement_2025_10_13/";
             },},{id: "news-️-paper-quot-deepseek-inspired-exploration-of-rl-based-llms-and-synergy-with-wireless-networks-a-survey-quot-was-published-by-the-acm-computing-surveys",
           title: '🗞️ Paper &amp;quot;DeepSeek-Inspired Exploration of RL-Based LLMs and Synergy with Wireless Networks A...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2025_11_14%20/";
+              window.location.href = "/news/announcement_2025_11_14/";
             },},{
         id: 'social-cv',
         title: 'CV',
