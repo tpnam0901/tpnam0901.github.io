@@ -143,7 +143,6 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-
 collections:
   books:
     output: true
