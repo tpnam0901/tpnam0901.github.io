@@ -1,0 +1,95 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Tran Phuong Nam
+    - name: Date of Birth
+      value: 9th January 1996
+    - name: Languages
+      value: English, Vietnamese
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D.c
+      institution: Kyung Hee University, Suwon, Republic of Korea
+      year: 2024 - now
+      description:
+        - Advisor Assoc <a href="https://scholar.google.com/citations?user=oKANWloAAAAJ">Prof. Choong Seon Hong</a>
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Degree of Bachelor in Information Technology
+      institution: FPT University, Ho Chi Minh City, Vietnam
+      year: 2019 - 2023
+      description:
+        - Advisor Assoc <a href="https://dnmduc.github.io/cv/">Prof. Dang Ngoc Minh Duc</a>
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: AI Engineer
+      institution: K&G Technology, Ho Chi Minh City, Vietnam
+      year: 2021 - 2023
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: AI Researcher
+      institution: Pythera AI, Ho Chi Minh City, Vietnam
+      year: 2021 - 2023
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+
+    - title: Full-time Researcher
+      institution: AiTA Lab, Dept. of Computing Fundamental, FPT University, Ho Chi Minh City, Vietnam.
+      year: 2023 - 2024
+
+    - title: Full-time Researcher
+      institution: Networking Intelligence Laboratory, Dept. of Computer Science and Engineering, Kyung Hee University, Yongin-si, 17104, Republic of Korea
+      year: 2024 - present
+      description:
+
+    # - title: Associate Professor of Theoretical Physics
+    #   institution: University of Zurich, Zurich, Switzerland
+    #   year: 1909 - 1911
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - Best Paper Award at the 14th International Conference on ICT Convergence - ICTC 2023
+    - year: 2023
+      items:
+        - Valedictorian of information technology at FPT University
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Multi-modal.
+#       items:
+#         - Audio classification.
+#         - Combining audio, video, and text.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
