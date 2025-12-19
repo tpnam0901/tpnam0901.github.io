@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-08'
+  last_updated: '2025-12-19'
 papers:
   NKbwDD8AAAAJ:0EnyYjriUFMC:
     citations: 9
@@ -10,9 +10,9 @@ papers:
     title: 'RBBA: ResNet-BERT-Bahdanau attention for image caption generator'
     year: '2023'
   NKbwDD8AAAAJ:3fE2CSJIrl8C:
-    citations: 1
-    title: 'Multimodal fusion in speech emotion recognition: A comprehensive review of methods and technologies'
-    year: '2026'
+    citations: 2
+    title: 'Multi-modal fusion in speech emotion recognition: A comprehensive review of methods and technologies'
+    year: Unknown Year
   NKbwDD8AAAAJ:4JMBOYKVnBMC:
     citations: 0
     title: 'Mask CoMER: Enhancing Handwritten Mathematical Expression Recognition with Masked Language Pretraining and Regularization'
@@ -30,7 +30,7 @@ papers:
     title: 'Vitexco: Exemplar-based video colorization using vision transformer'
     year: '2023'
   NKbwDD8AAAAJ:IjCSPb-OGe4C:
-    citations: 4
+    citations: 3
     title: 'MERSA: Multimodal Emotion Recognition with Self-Align Embedding'
     year: '2024'
   NKbwDD8AAAAJ:KlAtU1dfN6UC:
@@ -62,7 +62,7 @@ papers:
     title: Additive Angular Margin Loss for Federated Learning in Image Classification
     year: '2025'
   NKbwDD8AAAAJ:W7OEmFMy1HYC:
-    citations: 7
+    citations: 8
     title: 'SwinTExCo: Exemplar-based video colorization using Swin Transformer'
     year: '2025'
   NKbwDD8AAAAJ:Y0pCki6q_DkC:
@@ -74,7 +74,7 @@ papers:
     title: Improving Face Attendance Checking System with Ensemble Learning
     year: '2024'
   NKbwDD8AAAAJ:_FxGoFyzp5QC:
-    citations: 43
+    citations: 45
     title: 'MemoCMT: multimodal emotion recognition using cross-modal transformer-based feature fusion'
     year: '2025'
   NKbwDD8AAAAJ:d1gkVwhDpl0C:
@@ -85,6 +85,10 @@ papers:
     citations: 0
     title: Enhancing Federated Learning Performance for Medical Image Segmentation via Representation Learning
     year: '2024'
+  NKbwDD8AAAAJ:j3f4tGmQtD8C:
+    citations: 0
+    title: Enhancing multimodal emotion recognition with dynamic fuzzy membership and attention fusion
+    year: '2026'
   NKbwDD8AAAAJ:kNdYIx-mwKoC:
     citations: 2
     title: Enhancing Speech Emotion Recognition Through Knowledge Distillation
