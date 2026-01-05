@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-31'
+  last_updated: '2026-01-05'
 papers:
   NKbwDD8AAAAJ:0EnyYjriUFMC:
     citations: 9
@@ -11,8 +11,8 @@ papers:
     year: '2023'
   NKbwDD8AAAAJ:3fE2CSJIrl8C:
     citations: 2
-    title: 'Multimodal fusion in speech emotion recognition: A comprehensive review of methods and technologies'
-    year: '2026'
+    title: 'Multi-modal fusion in speech emotion recognition: A comprehensive review of methods and technologies'
+    year: Unknown Year
   NKbwDD8AAAAJ:4JMBOYKVnBMC:
     citations: 0
     title: 'Mask CoMER: Enhancing Handwritten Mathematical Expression Recognition with Masked Language Pretraining and Regularization'
@@ -30,7 +30,7 @@ papers:
     title: 'Vitexco: Exemplar-based video colorization using vision transformer'
     year: '2023'
   NKbwDD8AAAAJ:IjCSPb-OGe4C:
-    citations: 4
+    citations: 3
     title: 'MERSA: Multimodal Emotion Recognition with Self-Align Embedding'
     year: '2024'
   NKbwDD8AAAAJ:KlAtU1dfN6UC:
@@ -74,11 +74,11 @@ papers:
     title: Improving Face Attendance Checking System with Ensemble Learning
     year: '2024'
   NKbwDD8AAAAJ:_FxGoFyzp5QC:
-    citations: 51
+    citations: 53
     title: 'MemoCMT: multimodal emotion recognition using cross-modal transformer-based feature fusion'
     year: '2025'
   NKbwDD8AAAAJ:d1gkVwhDpl0C:
-    citations: 7
+    citations: 6
     title: Comparative analysis of multi-loss functions for enhanced multi-modal speech emotion recognition
     year: '2023'
   NKbwDD8AAAAJ:hqOjcs7Dif8C:
@@ -90,11 +90,11 @@ papers:
     title: Enhancing multimodal emotion recognition with dynamic fuzzy membership and attention fusion
     year: '2026'
   NKbwDD8AAAAJ:kNdYIx-mwKoC:
-    citations: 3
+    citations: 2
     title: Enhancing Speech Emotion Recognition Through Knowledge Distillation
     year: '2024'
   NKbwDD8AAAAJ:qjMakFHDy7sC:
-    citations: 9
+    citations: 8
     title: 'Multi-modal speech emotion recognition: Improving accuracy through fusion of vggish and bert features with multi-head attention'
     year: '2023'
   NKbwDD8AAAAJ:qxL8FJ1GzNcC:
