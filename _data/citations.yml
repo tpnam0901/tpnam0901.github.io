@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-02'
+  last_updated: '2026-03-16'
 papers:
   NKbwDD8AAAAJ:0EnyYjriUFMC:
     citations: 11
@@ -10,7 +10,7 @@ papers:
     title: 'RBBA: ResNet-BERT-Bahdanau attention for image caption generator'
     year: '2023'
   NKbwDD8AAAAJ:3fE2CSJIrl8C:
-    citations: 3
+    citations: 4
     title: 'Multimodal fusion in speech emotion recognition: A comprehensive review of methods and technologies'
     year: '2026'
   NKbwDD8AAAAJ:4JMBOYKVnBMC:
@@ -30,7 +30,7 @@ papers:
     title: 'Vitexco: Exemplar-based video colorization using vision transformer'
     year: '2023'
   NKbwDD8AAAAJ:IjCSPb-OGe4C:
-    citations: 4
+    citations: 6
     title: 'MERSA: Multimodal Emotion Recognition with Self-Align Embedding'
     year: '2024'
   NKbwDD8AAAAJ:KlAtU1dfN6UC:
@@ -50,7 +50,7 @@ papers:
     title: Overcoming Non-IID Challenges in Federated Learning with Feature Learning
     year: '2025'
   NKbwDD8AAAAJ:Se3iqnhoufwC:
-    citations: 31
+    citations: 32
     title: 'Deepseek-inspired exploration of rl-based llms and synergy with wireless networks: A survey'
     year: '2025'
   NKbwDD8AAAAJ:Tyk-4Ss8FVUC:
@@ -58,7 +58,7 @@ papers:
     title: 'Innovative multi-modal control for surveillance spider robot: An integration of voice and hand gesture recognition'
     year: '2024'
   NKbwDD8AAAAJ:UebtZRa9Y70C:
-    citations: 0
+    citations: 1
     title: Additive Angular Margin Loss for Federated Learning in Image Classification
     year: '2025'
   NKbwDD8AAAAJ:W7OEmFMy1HYC:
@@ -74,7 +74,7 @@ papers:
     title: Improving Face Attendance Checking System with Ensemble Learning
     year: '2024'
   NKbwDD8AAAAJ:_FxGoFyzp5QC:
-    citations: 73
+    citations: 79
     title: 'MemoCMT: multimodal emotion recognition using cross-modal transformer-based feature fusion'
     year: '2025'
   NKbwDD8AAAAJ:d1gkVwhDpl0C:
@@ -94,7 +94,7 @@ papers:
     title: Enhancing speech emotion recognition through knowledge distillation
     year: '2024'
   NKbwDD8AAAAJ:qjMakFHDy7sC:
-    citations: 10
+    citations: 11
     title: 'Multi-modal speech emotion recognition: Improving accuracy through fusion of vggish and bert features with multi-head attention'
     year: '2023'
   NKbwDD8AAAAJ:qxL8FJ1GzNcC:
@@ -102,7 +102,7 @@ papers:
     title: Enhancing Skin Lesion Classification Performance via Hybrid Quantum-Classical Learning
     year: '2025'
   NKbwDD8AAAAJ:roLk4NBRz8UC:
-    citations: 4
+    citations: 5
     title: 'Federated Learning with U-Net for Brain Tumor Segmentation: Impact of Client Numbers and Data Distribution'
     year: '2024'
   NKbwDD8AAAAJ:zYLM7Y9cAGgC:
