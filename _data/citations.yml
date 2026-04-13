@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-13'
 papers:
   NKbwDD8AAAAJ:0EnyYjriUFMC:
     citations: 11
@@ -34,7 +34,7 @@ papers:
     title: 'MERSA: Multimodal Emotion Recognition with Self-Align Embedding'
     year: '2024'
   NKbwDD8AAAAJ:KlAtU1dfN6UC:
-    citations: 3
+    citations: 4
     title: Towards real-time vietnamese traffic sign recognition on embedded systems
     year: '2024'
   NKbwDD8AAAAJ:LkGwnXOMwfcC:
@@ -50,7 +50,7 @@ papers:
     title: Overcoming Non-IID Challenges in Federated Learning with Feature Learning
     year: '2025'
   NKbwDD8AAAAJ:Se3iqnhoufwC:
-    citations: 35
+    citations: 36
     title: 'Deepseek-inspired exploration of rl-based llms and synergy with wireless networks: A survey'
     year: '2025'
   NKbwDD8AAAAJ:Tyk-4Ss8FVUC:
@@ -74,7 +74,7 @@ papers:
     title: Improving Face Attendance Checking System with Ensemble Learning
     year: '2024'
   NKbwDD8AAAAJ:_FxGoFyzp5QC:
-    citations: 83
+    citations: 86
     title: 'MemoCMT: multimodal emotion recognition using cross-modal transformer-based feature fusion'
     year: '2025'
   NKbwDD8AAAAJ:d1gkVwhDpl0C:
@@ -102,7 +102,7 @@ papers:
     title: Enhancing Skin Lesion Classification Performance via Hybrid Quantum-Classical Learning
     year: '2025'
   NKbwDD8AAAAJ:roLk4NBRz8UC:
-    citations: 5
+    citations: 6
     title: 'Federated Learning with U-Net for Brain Tumor Segmentation: Impact of Client Numbers and Data Distribution'
     year: '2024'
   NKbwDD8AAAAJ:zYLM7Y9cAGgC:
