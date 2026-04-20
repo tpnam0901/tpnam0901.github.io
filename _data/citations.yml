@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-20'
 papers:
   NKbwDD8AAAAJ:0EnyYjriUFMC:
     citations: 11
@@ -74,7 +74,7 @@ papers:
     title: Improving Face Attendance Checking System with Ensemble Learning
     year: '2024'
   NKbwDD8AAAAJ:_FxGoFyzp5QC:
-    citations: 86
+    citations: 89
     title: 'MemoCMT: multimodal emotion recognition using cross-modal transformer-based feature fusion'
     year: '2025'
   NKbwDD8AAAAJ:d1gkVwhDpl0C:
@@ -102,7 +102,7 @@ papers:
     title: Enhancing Skin Lesion Classification Performance via Hybrid Quantum-Classical Learning
     year: '2025'
   NKbwDD8AAAAJ:roLk4NBRz8UC:
-    citations: 6
+    citations: 8
     title: 'Federated Learning with U-Net for Brain Tumor Segmentation: Impact of Client Numbers and Data Distribution'
     year: '2024'
   NKbwDD8AAAAJ:zYLM7Y9cAGgC:
