@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-27'
 papers:
   NKbwDD8AAAAJ:0EnyYjriUFMC:
     citations: 11
@@ -50,7 +50,7 @@ papers:
     title: Overcoming Non-IID Challenges in Federated Learning with Feature Learning
     year: '2025'
   NKbwDD8AAAAJ:Se3iqnhoufwC:
-    citations: 36
+    citations: 39
     title: 'Deepseek-inspired exploration of rl-based llms and synergy with wireless networks: A survey'
     year: '2025'
   NKbwDD8AAAAJ:Tyk-4Ss8FVUC:
@@ -62,7 +62,7 @@ papers:
     title: Additive Angular Margin Loss for Federated Learning in Image Classification
     year: '2025'
   NKbwDD8AAAAJ:W7OEmFMy1HYC:
-    citations: 9
+    citations: 10
     title: 'SwinTExCo: Exemplar-based video colorization using Swin Transformer'
     year: '2025'
   NKbwDD8AAAAJ:Y0pCki6q_DkC:
@@ -74,7 +74,7 @@ papers:
     title: Improving Face Attendance Checking System with Ensemble Learning
     year: '2024'
   NKbwDD8AAAAJ:_FxGoFyzp5QC:
-    citations: 89
+    citations: 95
     title: 'MemoCMT: multimodal emotion recognition using cross-modal transformer-based feature fusion'
     year: '2025'
   NKbwDD8AAAAJ:d1gkVwhDpl0C:
@@ -90,7 +90,7 @@ papers:
     title: Enhancing multimodal emotion recognition with dynamic fuzzy membership and attention fusion
     year: '2026'
   NKbwDD8AAAAJ:kNdYIx-mwKoC:
-    citations: 3
+    citations: 4
     title: Enhancing speech emotion recognition through knowledge distillation
     year: '2024'
   NKbwDD8AAAAJ:qjMakFHDy7sC:
