@@ -66,6 +66,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2025_11_14/";
+            },},{id: "news-️-paper-quot-a-survey-on-foundation-models-for-personalized-federated-intelligence-quot-was-published-by-the-acm-computing-surveys",
+          title: '🗞️ Paper &amp;quot;A survey on Foundation Models for Personalized Federated Intelligence&amp;quot; was published...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2026_04_28/";
             },},{
         id: 'social-cv',
         title: 'CV',
