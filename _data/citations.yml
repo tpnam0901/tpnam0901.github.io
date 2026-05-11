@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-11'
 papers:
   NKbwDD8AAAAJ:0EnyYjriUFMC:
-    citations: 11
+    citations: 12
     title: Towards artificial general or personalized intelligence? a survey on foundation models for personalized federated intelligence
     year: '2025'
   NKbwDD8AAAAJ:2osOgNQ5qMEC:
@@ -10,7 +10,7 @@ papers:
     title: 'RBBA: ResNet-BERT-Bahdanau attention for image caption generator'
     year: '2023'
   NKbwDD8AAAAJ:3fE2CSJIrl8C:
-    citations: 4
+    citations: 5
     title: 'Multimodal fusion in speech emotion recognition: A comprehensive review of methods and technologies'
     year: '2026'
   NKbwDD8AAAAJ:4JMBOYKVnBMC:
@@ -50,7 +50,7 @@ papers:
     title: Overcoming Non-IID Challenges in Federated Learning with Feature Learning
     year: '2025'
   NKbwDD8AAAAJ:Se3iqnhoufwC:
-    citations: 39
+    citations: 40
     title: 'Deepseek-inspired exploration of rl-based llms and synergy with wireless networks: A survey'
     year: '2025'
   NKbwDD8AAAAJ:Tyk-4Ss8FVUC:
@@ -74,7 +74,7 @@ papers:
     title: Improving Face Attendance Checking System with Ensemble Learning
     year: '2024'
   NKbwDD8AAAAJ:_FxGoFyzp5QC:
-    citations: 95
+    citations: 102
     title: 'MemoCMT: multimodal emotion recognition using cross-modal transformer-based feature fusion'
     year: '2025'
   NKbwDD8AAAAJ:d1gkVwhDpl0C:
@@ -101,6 +101,10 @@ papers:
     citations: 0
     title: Enhancing Skin Lesion Classification Performance via Hybrid Quantum-Classical Learning
     year: '2025'
+  NKbwDD8AAAAJ:r0BpntZqJG4C:
+    citations: 0
+    title: 'From object difficulty to image scoring: A strategy for active learning in object detection'
+    year: '2026'
   NKbwDD8AAAAJ:roLk4NBRz8UC:
     citations: 8
     title: 'Federated Learning with U-Net for Brain Tumor Segmentation: Impact of Client Numbers and Data Distribution'
