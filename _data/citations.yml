@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-20'
 papers:
   NKbwDD8AAAAJ:0EnyYjriUFMC:
     citations: 12
@@ -74,7 +74,7 @@ papers:
     title: Improving Face Attendance Checking System with Ensemble Learning
     year: '2024'
   NKbwDD8AAAAJ:_FxGoFyzp5QC:
-    citations: 103
+    citations: 105
     title: 'MemoCMT: multimodal emotion recognition using cross-modal transformer-based feature fusion'
     year: '2025'
   NKbwDD8AAAAJ:d1gkVwhDpl0C:
@@ -86,11 +86,11 @@ papers:
     title: Enhancing Federated Learning Performance for Medical Image Segmentation via Representation Learning
     year: '2024'
   NKbwDD8AAAAJ:j3f4tGmQtD8C:
-    citations: 2
+    citations: 3
     title: Enhancing multimodal emotion recognition with dynamic fuzzy membership and attention fusion
     year: '2026'
   NKbwDD8AAAAJ:kNdYIx-mwKoC:
-    citations: 4
+    citations: 5
     title: Enhancing speech emotion recognition through knowledge distillation
     year: '2024'
   NKbwDD8AAAAJ:qjMakFHDy7sC:
