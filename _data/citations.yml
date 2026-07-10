@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-10'
 papers:
   NKbwDD8AAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -42,7 +42,7 @@ papers:
     title: Overcoming Non-IID Challenges in Federated Learning with Feature Learning
     year: '2025'
   NKbwDD8AAAAJ:Se3iqnhoufwC:
-    citations: 43
+    citations: 44
     title: 'Deepseek-inspired exploration of rl-based llms and synergy with wireless networks: A survey'
     year: '2025'
   NKbwDD8AAAAJ:Tyk-4Ss8FVUC:
@@ -50,7 +50,7 @@ papers:
     title: 'Innovative multi-modal control for surveillance spider robot: An integration of voice and hand gesture recognition'
     year: '2024'
   NKbwDD8AAAAJ:UebtZRa9Y70C:
-    citations: 1
+    citations: 2
     title: Additive Angular Margin Loss for Federated Learning in Image Classification
     year: '2025'
   NKbwDD8AAAAJ:W7OEmFMy1HYC:
@@ -66,9 +66,13 @@ papers:
     title: Improving Face Attendance Checking System with Ensemble Learning
     year: '2024'
   NKbwDD8AAAAJ:_FxGoFyzp5QC:
-    citations: 118
+    citations: 120
     title: 'MemoCMT: multimodal emotion recognition using cross-modal transformer-based feature fusion'
     year: '2025'
+  NKbwDD8AAAAJ:bEWYMUwI8FkC:
+    citations: 0
+    title: 'Federated learning for medical image analysis: Methods, challenges, and future directions'
+    year: '2026'
   NKbwDD8AAAAJ:d1gkVwhDpl0C:
     citations: 7
     title: Comparative analysis of multi-loss functions for enhanced multi-modal speech emotion recognition
@@ -78,7 +82,7 @@ papers:
     title: Enhancing Federated Learning Performance for Medical Image Segmentation via Representation Learning
     year: '2024'
   NKbwDD8AAAAJ:iH-uZ7U-co4C:
-    citations: 13
+    citations: 14
     title: Towards artificial general or personalized intelligence? a survey on foundation models for personalized federated intelligence
     year: '2025'
   NKbwDD8AAAAJ:j3f4tGmQtD8C:
@@ -102,7 +106,7 @@ papers:
     title: 'From object difficulty to image scoring: A strategy for active learning in object detection'
     year: '2026'
   NKbwDD8AAAAJ:roLk4NBRz8UC:
-    citations: 10
+    citations: 11
     title: 'Federated Learning with U-Net for Brain Tumor Segmentation: Impact of Client Numbers and Data Distribution'
     year: '2024'
   NKbwDD8AAAAJ:zYLM7Y9cAGgC:
