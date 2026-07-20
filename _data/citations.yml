@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-20'
 papers:
   NKbwDD8AAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -66,7 +66,7 @@ papers:
     title: Improving Face Attendance Checking System with Ensemble Learning
     year: '2024'
   NKbwDD8AAAAJ:_FxGoFyzp5QC:
-    citations: 120
+    citations: 124
     title: 'MemoCMT: multimodal emotion recognition using cross-modal transformer-based feature fusion'
     year: '2025'
   NKbwDD8AAAAJ:bEWYMUwI8FkC:
