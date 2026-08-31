@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-31'
 papers:
   NKbwDD8AAAAJ:2osOgNQ5qMEC:
     citations: 6
     title: 'RBBA: ResNet-BERT-Bahdanau attention for image caption generator'
     year: '2023'
   NKbwDD8AAAAJ:3fE2CSJIrl8C:
-    citations: 9
+    citations: 15
     title: 'Multimodal fusion in speech emotion recognition: A comprehensive review of methods and technologies'
     year: '2026'
   NKbwDD8AAAAJ:4JMBOYKVnBMC:
-    citations: 0
+    citations: 2
     title: 'Mask CoMER: Enhancing Handwritten Mathematical Expression Recognition with Masked Language Pretraining and Regularization'
     year: '2025'
   NKbwDD8AAAAJ:5nxA0vEk-isC:
@@ -30,7 +30,7 @@ papers:
     title: 'MERSA: Multimodal Emotion Recognition with Self-Align Embedding'
     year: '2024'
   NKbwDD8AAAAJ:KlAtU1dfN6UC:
-    citations: 4
+    citations: 5
     title: Towards real-time vietnamese traffic sign recognition on embedded systems
     year: '2024'
   NKbwDD8AAAAJ:LkGwnXOMwfcC:
@@ -41,8 +41,8 @@ papers:
     citations: 0
     title: Overcoming Non-IID Challenges in Federated Learning with Feature Learning
     year: '2025'
-  NKbwDD8AAAAJ:Se3iqnhoufwC:
-    citations: 44
+  NKbwDD8AAAAJ:TFP_iSt0sucC:
+    citations: 47
     title: 'Deepseek-inspired exploration of rl-based llms and synergy with wireless networks: A survey'
     year: '2025'
   NKbwDD8AAAAJ:Tyk-4Ss8FVUC:
@@ -51,7 +51,7 @@ papers:
     year: '2024'
   NKbwDD8AAAAJ:UebtZRa9Y70C:
     citations: 2
-    title: Additive Angular Margin Loss for Federated Learning in Image Classification
+    title: Additive angular margin loss for federated learning in image classification
     year: '2025'
   NKbwDD8AAAAJ:W7OEmFMy1HYC:
     citations: 10
@@ -62,11 +62,11 @@ papers:
     title: Vietnamese traffic sign recognition using deep learning
     year: '2024'
   NKbwDD8AAAAJ:Zph67rFs4hoC:
-    citations: 0
+    citations: 1
     title: Improving Face Attendance Checking System with Ensemble Learning
     year: '2024'
   NKbwDD8AAAAJ:_FxGoFyzp5QC:
-    citations: 124
+    citations: 144
     title: 'MemoCMT: multimodal emotion recognition using cross-modal transformer-based feature fusion'
     year: '2025'
   NKbwDD8AAAAJ:bEWYMUwI8FkC:
@@ -74,7 +74,7 @@ papers:
     title: 'Federated learning for medical image analysis: Methods, challenges, and future directions'
     year: '2026'
   NKbwDD8AAAAJ:d1gkVwhDpl0C:
-    citations: 7
+    citations: 6
     title: Comparative analysis of multi-loss functions for enhanced multi-modal speech emotion recognition
     year: '2023'
   NKbwDD8AAAAJ:hqOjcs7Dif8C:
@@ -82,19 +82,19 @@ papers:
     title: Enhancing Federated Learning Performance for Medical Image Segmentation via Representation Learning
     year: '2024'
   NKbwDD8AAAAJ:iH-uZ7U-co4C:
-    citations: 14
+    citations: 15
     title: Towards artificial general or personalized intelligence? a survey on foundation models for personalized federated intelligence
     year: '2025'
   NKbwDD8AAAAJ:j3f4tGmQtD8C:
-    citations: 3
+    citations: 8
     title: Enhancing multimodal emotion recognition with dynamic fuzzy membership and attention fusion
     year: '2026'
   NKbwDD8AAAAJ:kNdYIx-mwKoC:
-    citations: 5
+    citations: 4
     title: Enhancing speech emotion recognition through knowledge distillation
     year: '2024'
   NKbwDD8AAAAJ:qjMakFHDy7sC:
-    citations: 11
+    citations: 13
     title: 'Multi-modal speech emotion recognition: Improving accuracy through fusion of vggish and bert features with multi-head attention'
     year: '2023'
   NKbwDD8AAAAJ:qxL8FJ1GzNcC:
@@ -106,7 +106,7 @@ papers:
     title: 'From object difficulty to image scoring: A strategy for active learning in object detection'
     year: '2026'
   NKbwDD8AAAAJ:roLk4NBRz8UC:
-    citations: 11
+    citations: 13
     title: 'Federated Learning with U-Net for Brain Tumor Segmentation: Impact of Client Numbers and Data Distribution'
     year: '2024'
   NKbwDD8AAAAJ:zYLM7Y9cAGgC:
