@@ -157,7 +157,7 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: $border-radius;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -307,6 +307,12 @@
 
   li {
     white-space: nowrap;
+  }
+
+  /* multi-line location: keep wrapped lines aligned with the first line, not under the icon */
+  .author__location {
+    display: inline-block;
+    vertical-align: top;
   }
 
   a {

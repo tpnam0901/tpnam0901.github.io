@@ -4,15 +4,24 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 #
-# The /publications/ and /news/ pages also exist and are linked from the home
-# page; uncomment them below to show them in the header as well.
+# The /news/ page also exists and is linked from the home page; uncomment it
+# below to show it in the header as well.
 
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-  # - title: "News"
-  #   url: /news/
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Blog Posts"
+    url: /year-archive/
 
   - title: "CV"
     url: /cv/
+
+  # - title: "News"
+  #   url: /news/
