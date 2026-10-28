@@ -19,8 +19,10 @@ I am Tran **Phuong Nam** (Trần **Phương Nam** in Vietnamese), a Ph.D. candid
 My research focuses on **multimodal deep learning** and its use in real-world systems. I have worked on:
 
 - **Emotion recognition** from speech and text, including <a href="https://www.nature.com/articles/s41598-025-89202-x">MemoCMT</a> (*Scientific Reports*, 2025).
-- **Anomaly detection** for electric vehicle batteries, using spectrograms and time-series data, in <a href="https://www.sciencedirect.com/science/article/pii/S2590116826001025">our paper</a> (*eTransportation*, 2026; <a href="https://authors.elsevier.com/a/1o0RS9CxAHLow1">free access</a>).
-- **Large language models and federated learning**, including two surveys in *ACM Computing Surveys*: one on <a href="https://doi.org/10.1145/3776745">reinforcement-learning-based LLMs and wireless networks</a>, and one on <a href="https://doi.org/10.1145/3844947">foundation models for personalized federated intelligence</a>.
+- **Anomaly detection** for electric vehicle batteries, using spectrograms and time-series data: [*Enhancing battery anomaly detection via trend-reversal spectrograms and multi-modal cross-attention*](https://www.sciencedirect.com/science/article/pii/S2590116826001025) (*eTransportation*, 2026; <a href="https://authors.elsevier.com/a/1o0RS9CxAHLow1">free access</a>).
+- **Large language models and federated learning**, including two surveys in *ACM Computing Surveys*:
+  - [*DeepSeek-Inspired Exploration of RL-Based LLMs and Synergy with Wireless Networks: A Survey*](https://doi.org/10.1145/3776745) (2025)
+  - [*A Survey on Foundation Models for Personalized Federated Intelligence*](https://doi.org/10.1145/3844947) (2026)
 
 I received my B.Sc. in Artificial Intelligence from <a href="https://uni.fpt.edu.vn/en-US/home">FPT University</a>, Vietnam, in 2023, graduating as valedictorian of Information Technology. That same year, our paper on image captioning won the Best Paper Award at ICTC 2023. Before starting my Ph.D., I worked as an AI engineer at K&G Technology, as an AI researcher at Pythera AI, and as a researcher at the AiTA Lab, FPT University.
 

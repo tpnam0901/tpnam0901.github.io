@@ -70,6 +70,12 @@
     font-size: $type-size-6;
   }
 
+  &__note {
+    font-size: $type-size-7;
+    font-style: italic;
+    color: var(--global-text-color-light);
+  }
+
   &__links {
     margin-top: 0.5em;
 
@@ -156,25 +162,55 @@
 }
 
 /* Publications page: compact entries (title, authors, venue) */
-.pub-item {
-  margin-bottom: 1em;
+/* number the entries 1, 2, 3, ... within each category */
+.pub-tabs__panel {
+  counter-reset: pub;
+}
 
+.pub-item {
+  position: relative;
+  margin: 0;
+  padding: 0.6em 0 0.6em 2.4em;
+  counter-increment: pub;
+
+  &::before {
+    content: counter(pub) ".";
+    position: absolute;
+    top: 0.6em;
+    left: 0;
+    width: 2em;
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    font-weight: bold;
+    line-height: 1.4;
+    text-align: right;
+    color: var(--global-text-color-light);
+  }
+
+  /* same size as the category tabs */
   .archive__item-title {
-    margin: 0.75em 0 0.15em;
-    font-size: 0.95em;
-    line-height: 1.35;
+    margin: 0 0 0.1em;
+    font-size: $type-size-6;
+    line-height: 1.4;
   }
 
   p {
-    margin: 0.15em 0 0;
+    margin: 0.1em 0 0;
+    line-height: 1.4;
   }
 
-  &__authors {
+  &__authors,
+  &__venue {
     font-size: $type-size-7;
   }
 
   &__venue {
-    font-size: $type-size-7;
+    color: var(--global-text-color-light);
+  }
+
+  &__note {
+    font-size: $type-size-8;
+    font-style: italic;
     color: var(--global-text-color-light);
   }
 }

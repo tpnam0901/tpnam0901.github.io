@@ -14,6 +14,7 @@
   <div class="pub-card__body">
     <a class="pub-card__title" href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
     <div class="pub-card__authors">{{ post.authors }}</div>
+    {% if post.author_note %}<div class="pub-card__note">{{ post.author_note }}</div>{% endif %}
     <div class="pub-card__venue"><i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</div>
     <div class="pub-card__links">
       <a class="btn btn--inverse btn--small" href="{{ base_path }}{{ post.url }}">Abs</a>
