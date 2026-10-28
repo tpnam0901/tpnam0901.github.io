@@ -11,26 +11,68 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<!-- New style rendering if publication categories are defined: one tab per category -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
+  <div class="pub-tabs" role="tablist" aria-label="Publication categories">
+    {% for category in site.publication_category %}
+      {% assign count = site.publications | where: "category", category[0] | size %}
+      {% if count > 0 %}
+        <button type="button" class="pub-tabs__tab" role="tab" id="tab-{{ category[0] }}" aria-controls="panel-{{ category[0] }}" aria-selected="false" data-category="{{ category[0] }}">
+          {{ category[1].title }} <span class="pub-tabs__count">{{ count }}</span>
+        </button>
       {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
     {% endfor %}
+  </div>
+
+  {% for category in site.publication_category %}
+    {% assign count = site.publications | where: "category", category[0] | size %}
+    {% if count > 0 %}
+      <section class="pub-tabs__panel" role="tabpanel" id="panel-{{ category[0] }}" aria-labelledby="tab-{{ category[0] }}">
+        <h2 class="pub-tabs__heading">{{ category[1].title }}</h2>
+        {% for post in site.publications reversed %}
+          {% if post.category != category[0] %}
+            {% continue %}
+          {% endif %}
+          {% include archive-single.html %}
+        {% endfor %}
+      </section>
+    {% endif %}
   {% endfor %}
+
+  <script>
+    (function () {
+      var tabs = Array.prototype.slice.call(document.querySelectorAll(".pub-tabs__tab"));
+      if (!tabs.length) return;
+      document.documentElement.classList.add("pub-tabs-ready");
+
+      function show(category, updateHash) {
+        tabs.forEach(function (tab) {
+          var active = tab.dataset.category === category;
+          tab.setAttribute("aria-selected", active ? "true" : "false");
+          tab.tabIndex = active ? 0 : -1;
+          document.getElementById("panel-" + tab.dataset.category).hidden = !active;
+        });
+        if (updateHash) history.replaceState(null, "", "#" + category);
+      }
+
+      tabs.forEach(function (tab, i) {
+        tab.addEventListener("click", function () { show(tab.dataset.category, true); });
+        tab.addEventListener("keydown", function (e) {
+          var step = e.key === "ArrowRight" ? 1 : e.key === "ArrowLeft" ? -1 : 0;
+          if (!step) return;
+          var next = tabs[(i + step + tabs.length) % tabs.length];
+          next.focus();
+          show(next.dataset.category, true);
+        });
+      });
+
+      var fromHash = location.hash.slice(1);
+      var initial = tabs.some(function (t) { return t.dataset.category === fromHash; }) ? fromHash : tabs[0].dataset.category;
+      show(initial, false);
+    })();
+  </script>
 {% else %}
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
-
