@@ -59,14 +59,18 @@ layout: default
     <!-- Social -->
     {% if page.social %}
       <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
+        <div class="contact-icons">{% social_links %}</div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
-      {% include newsletter.liquid center=true %}
+      {% if site.plugins contains 'al_newsletter' %}
+        {% include plugins/al_newsletter_form_center_margin.liquid %}
+      {% else %}
+        {% include newsletter.liquid center=true %}
+      {% endif %}
     {% endif %}
     <div style="width: 150px; margin: 0 auto">
       <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=xW7nMfAHDma4ZgSElvdBVQL-ntbmeGrv_H6wyuEbSpM&cl=ffffff&w=a"></script>
