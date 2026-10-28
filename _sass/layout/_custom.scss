@@ -145,6 +145,11 @@
   background-color: var(--global-base-color);
 }
 
+/* the reset stylesheet sets `section { display: block }`, which would override the `hidden` attribute */
+.pub-tabs__panel[hidden] {
+  display: none;
+}
+
 /* the tab already names the category, so hide the section heading once tabs are active */
 .pub-tabs-ready .pub-tabs__heading {
   display: none;
