@@ -1,0 +1,27 @@
+{% include base_path %}
+
+{% comment %}
+  Renders one publication (passed as `post`) as a card with preview image, venue badge and links.
+{% endcomment %}
+
+<div class="pub-card">
+  <div class="pub-card__preview">
+    {% if post.abbr %}<span class="pub-card__abbr">{{ post.abbr }}</span>{% endif %}
+    {% if post.preview %}
+      <img src="{{ base_path }}/images/publication_preview/{{ post.preview }}" alt="{{ post.title }}" loading="lazy">
+    {% endif %}
+  </div>
+  <div class="pub-card__body">
+    <a class="pub-card__title" href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+    <div class="pub-card__authors">{{ post.authors }}</div>
+    <div class="pub-card__venue"><i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</div>
+    <div class="pub-card__links">
+      <a class="btn btn--inverse btn--small" href="{{ base_path }}{{ post.url }}">Abs</a>
+      {% if post.paperurl %}<a class="btn btn--inverse btn--small" href="{{ post.paperurl }}">HTML</a>{% endif %}
+      {% if post.code %}<a class="btn btn--inverse btn--small" href="{{ post.code }}">Code</a>{% endif %}
+      {% if post.dimensions and post.doi %}
+        <span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
+      {% endif %}
+    </div>
+  </div>
+</div>

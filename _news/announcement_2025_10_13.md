@@ -1,10 +1,7 @@
 ---
-layout: post
 date: 2025-10-13 15:59:00-0400
 title: 🗞️ Paper "MemoCMT Multimodal Emotion Recognition Using Cross-Modal Transformer-Based Feature Fusion" was accepted by the Scientific Reports.
 
-inline: false
-related_posts: false
 ---
 
 - Mustaqeem Khan, Phuong-Nam Tran, Nhat Truong Pham, Abdulmotaleb El Saddik, Alice Othmani, <a href="https://www.nature.com/articles/s41598-025-89202-x">“MemoCMT: multimodal emotion recognition using cross-modal transformer-based feature fusion”</a>, [Scientific Reports](https://www.nature.com/srep/), vol. 15, 5473, 2025  

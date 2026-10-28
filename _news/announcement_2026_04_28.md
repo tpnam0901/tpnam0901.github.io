@@ -1,10 +1,7 @@
 ---
-layout: post
 date: 2026-04-28 15:59:00-0400
 title: 🗞️ Paper "A survey on Foundation Models for Personalized Federated Intelligence" was published by the ACM Computing Surveys.
 
-inline: false
-related_posts: false
 ---
 
 - Yu Qiao, Huy Q. Le, Avi Deb Raha, Phuong-Nam Tran, Apurba Adhikary, Mengchun Zhang, Loc X. Nguyen, Eui-Nam Huh, Dusit Niyato, Choong Seon Hong, <a href="https://doi.org/10.1145/3844947">“A Survey on Foundation Models for Personalized Federated Intelligence”</a>, [ACM Computing Surveys](https://dl.acm.org/journal/csur), 2026  

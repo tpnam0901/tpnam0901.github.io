@@ -1,7 +1,8 @@
 ---
-layout: page
-title: news
+layout: archive
+title: "News"
 permalink: /news/
+author_profile: true
 ---
 
-{% include news.liquid %}
+{% include news-list.html %}

@@ -1,9 +1,6 @@
 ---
-layout: post
 date: 2024-08-19 15:59:00-0400
 title: 🗞️🗞️🗞️🗞️ 04 papers were accepted at The 15th International Conference on ICT Convergence, Jeju, Korea, Oct 16 -18, 2024.   
-inline: false
-related_posts: false
 ---
 
 - Phuong-Nam Tran, Nhat Truong Pham, Nam Van Hai Phan, Duc Tai Phan, Cuong Tuan Nguyen, Duc Ngoc Minh Dang, <a href="https://doi.org/10.1109/ICTC62082.2024.10827558">“Towards Real-Time Vietnamese Traffic Sign Recognition on Embedded Systems”</a>, [The 15th International Conference on ICT Convergence, Jeju, Korea](https://ictc.org/), Oct 16 -18, 2024  

@@ -1,0 +1,22 @@
+{% include base_path %}
+
+{% comment %}
+  Lists items from the _news collection, newest first.
+  Parameters: limit (optional) - number of items to show; scrollable (optional) - cap the height and scroll.
+{% endcomment %}
+
+{% assign news = site.news | sort: "date" | reverse %}
+{% if include.limit %}
+  {% assign news = news | slice: 0, include.limit %}
+{% endif %}
+
+<div class="news-list{% if include.scrollable %} news-list--scrollable{% endif %}">
+  <table>
+    {% for item in news %}
+      <tr>
+        <th scope="row">{{ item.date | date: "%b %d, %Y" }}</th>
+        <td><a href="{{ base_path }}{{ item.url }}">{{ item.title }}</a></td>
+      </tr>
+    {% endfor %}
+  </table>
+</div>

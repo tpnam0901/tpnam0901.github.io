@@ -1,0 +1,98 @@
+/* ==========================================================================
+   SITE CUSTOMIZATIONS
+   News list and selected-publication cards on the home page
+   ========================================================================== */
+
+.news-list {
+  margin-bottom: 1.5em;
+
+  table {
+    display: table;
+    width: 100%;
+    margin-bottom: 0;
+  }
+
+  th {
+    width: 8.5em;
+    white-space: nowrap;
+    vertical-align: top;
+    font-weight: normal;
+    color: var(--global-text-color-light);
+  }
+
+  &--scrollable {
+    max-height: 22em;
+    overflow-y: auto;
+  }
+}
+
+.pub-card {
+  display: flex;
+  gap: 1em;
+  padding: 1em 0;
+  border-bottom: 1px solid var(--global-border-color);
+
+  &__preview {
+    flex: 0 0 30%;
+    max-width: 30%;
+
+    img {
+      display: block;
+      width: 100%;
+      margin-top: 0.5em;
+      border-radius: $border-radius;
+      box-shadow: $box-shadow;
+    }
+  }
+
+  &__abbr {
+    display: inline-block;
+    padding: 0.15em 0.6em;
+    font-size: $type-size-7;
+    font-weight: bold;
+    color: #fff;
+    background-color: var(--global-base-color);
+    border-radius: $border-radius;
+  }
+
+  &__body {
+    flex: 1;
+    min-width: 0;
+  }
+
+  &__title {
+    display: block;
+    font-weight: bold;
+  }
+
+  &__authors,
+  &__venue {
+    font-size: $type-size-6;
+  }
+
+  &__links {
+    margin-top: 0.5em;
+
+    .btn {
+      margin-right: 0.25em;
+    }
+
+    .__dimensions_badge_embed__ {
+      display: inline-block;
+      vertical-align: middle;
+    }
+  }
+
+  @include breakpoint(max-width $small) {
+    flex-direction: column;
+
+    &__preview {
+      max-width: 100%;
+    }
+  }
+}
+
+.visitor-map {
+  width: 150px;
+  margin: 2em auto 0;
+}
