@@ -5,6 +5,8 @@ category: manuscripts
 permalink: /publication/towards-effective-multimodal-emotion-recognition-in-conversa
 date: 2026-09-10
 venue: 'Information Sciences'
+impact_factor: '6.0' # Clarivate JCR 2025
+jcr_year: 2025
 authors: 'Hoang Khang Trang, Bao Quoc Nguyen, Viet Vinh Khanh Dinh, Nhut Minh Nguyen, Nhat Truong Pham, <b>Phuong-Nam Tran</b>, Phuong Luu Vo, Duc Ngoc Minh Dang'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0020025526010698'
 selected: false

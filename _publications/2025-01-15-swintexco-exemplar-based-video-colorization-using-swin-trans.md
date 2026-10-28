@@ -5,6 +5,8 @@ category: manuscripts
 permalink: /publication/swintexco-exemplar-based-video-colorization-using-swin-trans
 date: 2025-01-15
 venue: 'Expert Systems with Applications'
+impact_factor: '7.5' # Clarivate JCR 2024
+jcr_year: 2024
 authors: 'Duong Thanh Tran, Nguyen Doan Hieu Nguyen, Trung Thanh Pham, <b>Phuong-Nam Tran</b>, Thuy-Duong Thi Vu, Cuong Tuan Nguyen, Hanh Dang-Ngoc, Duc Ngoc Minh Dang'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0957417424023042'
 selected: false

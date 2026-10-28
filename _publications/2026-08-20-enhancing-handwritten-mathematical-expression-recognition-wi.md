@@ -5,6 +5,8 @@ category: manuscripts
 permalink: /publication/enhancing-handwritten-mathematical-expression-recognition-wi
 date: 2026-08-20
 venue: 'Journal of Information and Telecommunication'
+impact_factor: '2.1' # Clarivate JCR 2025
+jcr_year: 2025
 authors: 'Thanh Trung Nguyen, Nhut Minh Nguyen, Nam Van Hai Phan, Khoa Minh Nguyen, Trung Thanh Pham, <b>Phuong-Nam Tran</b>, Cuong Tuan Nguyen, Duc Ngoc Minh Dang'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/24751839.2026.2716432'
 doi: '10.1080/24751839.2026.2716432'

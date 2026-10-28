@@ -5,6 +5,8 @@ category: manuscripts
 permalink: /publication/battery-anomaly-detection
 date: 2026-10-28
 venue: 'eTransportation'
+impact_factor: '18.7' # Clarivate JCR 2025
+jcr_year: 2025
 abbr: 'eTransportation'
 authors: '<b>Phuong-Nam Tran</b>, Trung Thanh Pham, Jae-Jo Lee, Eui-Nam Huh, Choong Seon Hong'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2590116826001025'

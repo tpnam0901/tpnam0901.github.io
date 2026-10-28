@@ -1,0 +1,4 @@
+{% comment %}
+  Journal Impact Factor badge for a publication (passed as `post`, or the current `page`).
+  Uses `impact_factor` and `jcr_year` from the publication's front matter.
+{% endcomment %}{% assign pub = post | default: page %}{% if pub.impact_factor %} <span class="impact-factor" title="Journal Impact Factor (Clarivate JCR {{ pub.jcr_year }})">IF {{ pub.impact_factor }}</span>{% endif %}

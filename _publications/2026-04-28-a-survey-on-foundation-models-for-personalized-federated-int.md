@@ -5,6 +5,8 @@ category: manuscripts
 permalink: /publication/a-survey-on-foundation-models-for-personalized-federated-int
 date: 2026-04-28
 venue: 'ACM Computing Surveys'
+impact_factor: '30.4' # Clarivate JCR 2025
+jcr_year: 2025
 authors: 'Yu Qiao, Huy Le, Avi Raha, <b>Phuong-Nam Tran</b>, Apurba Adhikary, Mengchun Zhang, Loc X Nguyen, Eui-Nam Huh, Dusit Niyato, Choong Seon Hong'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3844947'
 doi: '10.1145/3844947'

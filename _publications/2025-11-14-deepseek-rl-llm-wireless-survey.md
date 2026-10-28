@@ -5,6 +5,8 @@ category: manuscripts
 permalink: /publication/deepseek-rl-llm-wireless-survey
 date: 2025-11-14
 venue: 'ACM Computing Surveys'
+impact_factor: '28.0' # Clarivate JCR 2024
+jcr_year: 2024
 abbr: 'ACM Comput. Surv.'
 authors: 'Yu Qiao, <b>Phuong-Nam Tran</b>, Ji Yoon, Loc Nguyen, Eui-Nam Huh, Dusit (Tao) Niyato, Choong Seon Hong'
 paperurl: 'https://doi.org/10.1145/3776745'

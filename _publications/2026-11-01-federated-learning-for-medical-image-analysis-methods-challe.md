@@ -5,6 +5,8 @@ category: manuscripts
 permalink: /publication/federated-learning-for-medical-image-analysis-methods-challe
 date: 2026-11-01
 venue: 'Advanced Engineering Informatics'
+impact_factor: '11.5' # Clarivate JCR 2025
+jcr_year: 2025
 authors: 'Thu Thuy Le, <b>Phuong-Nam Tran</b>, Nhat Truong Pham, Balachandran Manavalan, Li Shen, Choong Seon Hong, Duc Ngoc Minh Dang'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1474034626006683'
 selected: false

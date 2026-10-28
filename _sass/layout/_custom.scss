@@ -215,6 +215,21 @@
   }
 }
 
+/* Journal Impact Factor badge shown after the venue */
+.impact-factor {
+  display: inline-block;
+  margin-left: 0.4em;
+  padding: 0 0.45em;
+  font-size: 0.9em;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 1.5;
+  color: var(--global-base-color);
+  border: 1px solid var(--global-base-color);
+  border-radius: $border-radius;
+  white-space: nowrap;
+}
+
 .visitor-map {
   width: 150px;
   margin: 2em auto 0;

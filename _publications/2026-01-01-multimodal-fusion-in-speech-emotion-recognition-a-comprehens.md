@@ -5,6 +5,8 @@ category: manuscripts
 permalink: /publication/multimodal-fusion-in-speech-emotion-recognition-a-comprehens
 date: 2026-01-01
 venue: 'Engineering Applications of Artificial Intelligence'
+impact_factor: '9.0' # Clarivate JCR 2025
+jcr_year: 2025
 authors: 'Nhut Minh Nguyen, Thanh Trung Nguyen, <b>Phuong-Nam Tran</b>, Chee Peng Lim, Nhat Truong Pham, Duc Ngoc Minh Dang'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0952197625026557'
 selected: false

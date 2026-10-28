@@ -5,6 +5,8 @@ category: manuscripts
 permalink: /publication/enhancing-multimodal-emotion-recognition-with-dynamic-fuzzy
 date: 2026-02-01
 venue: 'Engineering Applications of Artificial Intelligence'
+impact_factor: '9.0' # Clarivate JCR 2025
+jcr_year: 2025
 authors: 'Nhut Minh Nguyen, Trung Minh Nguyen, Thanh Trung Nguyen, <b>Phuong-Nam Tran</b>, Nhat Truong Pham, Linh Le, Alice Othmani, Abdulmotaleb El Saddik, Duc Ngoc Minh Dang'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S095219762503427X'
 selected: false

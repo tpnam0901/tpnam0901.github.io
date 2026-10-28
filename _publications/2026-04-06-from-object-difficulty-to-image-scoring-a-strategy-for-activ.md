@@ -5,6 +5,8 @@ category: manuscripts
 permalink: /publication/from-object-difficulty-to-image-scoring-a-strategy-for-activ
 date: 2026-04-06
 venue: 'Knowledge-Based Systems'
+impact_factor: '8.0' # Clarivate JCR 2025
+jcr_year: 2025
 authors: 'Duc Tai Phan, Nhut Minh Nguyen, Khang Phuc Nguyen, <b>Phuong-Nam Tran</b>, Nhat Truong Pham, Linh Le, Choong Seon Hong, Duc Ngoc Minh Dang'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0950705126006726'
 selected: false
