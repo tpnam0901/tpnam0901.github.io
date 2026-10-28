@@ -18,6 +18,7 @@
     <div class="pub-card__links">
       <a class="btn btn--inverse btn--small" href="{{ base_path }}{{ post.url }}">Abs</a>
       {% if post.paperurl %}<a class="btn btn--inverse btn--small" href="{{ post.paperurl }}">HTML</a>{% endif %}
+      {% if post.freeurl %}<a class="btn btn--inverse btn--small" href="{{ post.freeurl }}">Free Access</a>{% endif %}
       {% if post.code %}<a class="btn btn--inverse btn--small" href="{{ post.code }}">Code</a>{% endif %}
       {% if post.dimensions and post.doi %}
         <span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right"></span>
