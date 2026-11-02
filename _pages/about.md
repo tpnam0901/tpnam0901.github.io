@@ -36,5 +36,5 @@ I received my B.Sc. in Artificial Intelligence from <a href="https://uni.fpt.edu
 {% for post in selected %}{% include selected-publication.html %}{% endfor %}
 
 <div class="visitor-map">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=xW7nMfAHDma4ZgSElvdBVQL-ntbmeGrv_H6wyuEbSpM&cl=ffffff&w=a"></script>
+  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=j-z8cdwUiev2BbujNSzJxNbE4CGhoqYl06GRX1BY4RI'></script>
 </div>
