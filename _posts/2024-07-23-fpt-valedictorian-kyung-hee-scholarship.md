@@ -2,6 +2,8 @@
 title: "FPT University's Top Graduate Receives a Full Scholarship from South Korea"
 date: 2024-07-23 15:00:00+0700
 permalink: /posts/2024/07/fpt-valedictorian-kyung-hee-scholarship/
+header:
+  teaser: posts/fpt-valedictorian/campus.webp
 tags:
   - news
   - scholarship

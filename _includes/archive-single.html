@@ -24,6 +24,16 @@
           {% endif %}
           alt="">
       </div>
+    {% elsif include.type != "grid" and post.header.teaser %}
+      <a href="{{ base_path }}{{ post.url }}" class="archive__item-teaser list__item-teaser" tabindex="-1" aria-hidden="true">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="" loading="lazy">
+      </a>
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
