@@ -26,6 +26,16 @@ My research focuses on **multimodal deep learning** and its use in real-world sy
 
 I received my B.Sc. in Artificial Intelligence from <a href="https://uni.fpt.edu.vn/en-US/home">FPT University</a>, Vietnam, in 2023, graduating as valedictorian of Information Technology. That same year, our paper on image captioning won the Best Paper Award at ICTC 2023. Before starting my Ph.D., I worked as an AI engineer at K&G Technology, as an AI researcher at Pythera AI, and as a researcher at the AiTA Lab, FPT University.
 
+<h2><a href="https://github.com/tpnam0901" style="color: inherit">💻 GitHub Stats 💻</a></h2>
+
+<p align="center">
+  <a href="https://github.com/tpnam0901"><img src="https://github-readme-streak-stats.herokuapp.com?user=tpnam0901&theme=tokyonight&mode=weekly" alt="GitHub Streak"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/tpnam0901"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tpnam0901&theme=tokyonight&exclude=Jupyter%20Notebook" alt="Top Languages by Repo"></a>
+  <a href="https://github.com/tpnam0901"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tpnam0901&theme=tokyonight&exclude=Jupyter%20Notebook" alt="Top Languages by Commit"></a>
+</p>
+
 <h2><a href="{{ base_path }}/news/" style="color: inherit">🗞️ News 🗞️</a></h2>
 
 {% include news-list.html limit=5 scrollable=true %}
