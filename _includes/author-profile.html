@@ -182,7 +182,10 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}
+      {% if page.url == "/" %}
+        <li class="author__qrcode"><img src="{{ '/images/qrcode.png' | relative_url }}" alt="QR code linking to tpnam0901.github.io" style="width: 140px; height: auto; margin-top: 0.5em;"></li>
+      {% endif %}
     </ul>
   </div>
 </div>
