@@ -46,7 +46,7 @@ Work experience
 Education
 ======
 * Sep 2021 - Dec 2023: Bachelor in Artificial Intelligence
-  * [FPT University, Ho Chi Minh City, Vietnam](https://uni.fpt.edu.vn/en-US/Default.aspx)
+  * [FPT University, Ho Chi Minh City, Vietnam](https://daihoc.fpt.edu.vn/en/)
   * GPA: 3.57/4.0
   * Courses: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
 

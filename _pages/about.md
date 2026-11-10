@@ -24,7 +24,7 @@ My research focuses on **multimodal deep learning** and its use in real-world sy
   - [*DeepSeek-Inspired Exploration of RL-Based LLMs and Synergy with Wireless Networks: A Survey*](https://doi.org/10.1145/3776745) (2025)
   - [*A Survey on Foundation Models for Personalized Federated Intelligence*](https://doi.org/10.1145/3844947) (2026)
 
-I received my B.Sc. in Artificial Intelligence from <a href="https://uni.fpt.edu.vn/en-US/home">FPT University</a>, Vietnam, in 2023, graduating as valedictorian of Information Technology. That same year, our paper on image captioning won the Best Paper Award at ICTC 2023. Before starting my Ph.D., I worked as an AI engineer at K&G Technology, as an AI researcher at Pythera AI, and as a researcher at the AiTA Lab, FPT University.
+I received my B.Sc. in Artificial Intelligence from <a href="https://daihoc.fpt.edu.vn/en/">FPT University</a>, Vietnam, in 2023, graduating as valedictorian of Information Technology. That same year, our paper on image captioning won the Best Paper Award at ICTC 2023. Before starting my Ph.D., I worked as an AI engineer at K&G Technology, as an AI researcher at Pythera AI, and as a researcher at the AiTA Lab, FPT University.
 
 <h2><a href="https://github.com/tpnam0901" style="color: inherit">💻 GitHub Stats 💻</a></h2>
 
