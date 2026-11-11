@@ -1,6 +1,6 @@
 ---
 title: "Robot Arm Basics: Rotation and Translation"
-date: 2026-11-10 00:00:00+0900
+date: 2026-11-10 10:00:00+0900
 modified: 2026-11-10
 revisions:
   - date: 2026-11-10
